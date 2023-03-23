@@ -1,5 +1,3 @@
-# HELLO WORLD
-
 # We are Kylo.
 
 ### The bridge between digital transformation and marketing.
